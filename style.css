@@ -1,0 +1,16 @@
+table{
+    width: 480px;
+    font-weight: 800;
+    background-color:aquamarine;
+    border-style: solid;
+    border-color:aquamarine;
+       
+}
+h1{
+    background-color: cadetblue;
+}
+
+td{
+   background-color:greenyellow;
+}
+
